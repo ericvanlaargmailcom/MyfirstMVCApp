@@ -24,3 +24,8 @@
 /Users/ericlaar/dev/dotnet/MyfirstMVCApp/obj/Debug/net6.0/MyfirstMVCApp.pdb
 /Users/ericlaar/dev/dotnet/MyfirstMVCApp/obj/Debug/net6.0/MyfirstMVCApp.genruntimeconfig.cache
 /Users/ericlaar/dev/dotnet/MyfirstMVCApp/obj/Debug/net6.0/ref/MyfirstMVCApp.dll
+/Users/ericlaar/dev/dotnet/MyfirstMVCApp/bin/Debug/net6.0/publish/web.config
+/Users/ericlaar/dev/dotnet/MyfirstMVCApp/bin/Debug/net6.0/publish/appsettings.Development.json
+/Users/ericlaar/dev/dotnet/MyfirstMVCApp/bin/Debug/net6.0/publish/appsettings.json
+/Users/ericlaar/dev/dotnet/MyfirstMVCApp/bin/Debug/net6.0/publish/MyfirstMVCApp.deps.json
+/Users/ericlaar/dev/dotnet/MyfirstMVCApp/bin/Debug/net6.0/publish/MyfirstMVCApp.runtimeconfig.json

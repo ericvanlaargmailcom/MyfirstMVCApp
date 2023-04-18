@@ -1,0 +1,7 @@
+/Users/ericlaar/dev/dotnet/MyfirstMVCApp/publish/MyfirstMVCApp
+/Users/ericlaar/dev/dotnet/MyfirstMVCApp/publish/appsettings.Development.json
+/Users/ericlaar/dev/dotnet/MyfirstMVCApp/publish/appsettings.json
+/Users/ericlaar/dev/dotnet/MyfirstMVCApp/publish/MyfirstMVCApp.dll
+/Users/ericlaar/dev/dotnet/MyfirstMVCApp/publish/MyfirstMVCApp.deps.json
+/Users/ericlaar/dev/dotnet/MyfirstMVCApp/publish/MyfirstMVCApp.runtimeconfig.json
+/Users/ericlaar/dev/dotnet/MyfirstMVCApp/publish/MyfirstMVCApp.pdb

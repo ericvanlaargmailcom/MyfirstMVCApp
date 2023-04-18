@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9c108632-3066-4862-b0db-b34e82ba633d/resourceGroups/rgtestmyfirstdotnetapp/providers/Microsoft.Web/sites/testmyfirstdotnetapp",
+    "appService.deploySubpath": "publish"
+}
